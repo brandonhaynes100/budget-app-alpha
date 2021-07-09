@@ -1,0 +1,23 @@
+{
+  "name": "budget-app-alpha",
+  "version": "1.0.0",
+  "description": "Used to track and organize expenses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhaynes100/budget-app-alpha.git"
+  },
+  "keywords": [
+    "budget",
+    "react"
+  ],
+  "author": "brandonhaynes100",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhaynes100/budget-app-alpha/issues"
+  },
+  "homepage": "https://github.com/brandonhaynes100/budget-app-alpha#readme"
+}
